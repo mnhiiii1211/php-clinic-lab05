@@ -1,6 +1,0 @@
-Suggested commit plan:
-1. git commit -m "setup clinic lab05 project structure"
-2. git commit -m "add clinic database schema and seed data"
-3. git commit -m "add PDO database class and repositories"
-4. git commit -m "add patient appointment CRUD controllers and views"
-5. git commit -m "add search pagination safe sort duplicate handling and error pages"
