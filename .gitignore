@@ -1,0 +1,4 @@
+/storage/logs/*.log
+!.gitkeep
+.DS_Store
+.env
